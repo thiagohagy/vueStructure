@@ -1,0 +1,9 @@
+module.exports = {
+    secret: '198209d1298d12',
+    database: 'mongodb://127.0.0.1:27017/vuebase',
+    initialPort: 9090,
+    passFixture: '1',
+    uploadPath: '/var/www/bestchat/backend/uploads',
+    tempPath: '/var/www/bestchat/frontend/static/temp',
+    socketio: 9191
+};
